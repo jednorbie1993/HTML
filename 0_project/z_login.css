@@ -1,0 +1,23 @@
+
+
+body{
+    margin: 0;
+    background-color: rgb(124, 198, 223);
+}
+
+.box{
+    width: 300px;
+    padding: 20px;
+    background-color: white;
+
+    margin: 100px auto; /* eto important */
+    text-align: center;
+}
+/*body{
+    margin: 0;
+    height: 100vh; /* full screen height */
+
+/*    display: flex;
+    justify-content: center; /* horizontal center */
+/*    align-items: center;     /* vertical center */
+

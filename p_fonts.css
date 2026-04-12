@@ -1,0 +1,13 @@
+@font-face {
+    src: url(p_fonts/OpenSans-Italic.ttf);
+    font-family:OpenSans-Italic;
+}
+h1{
+    font-family: Verdana, arial;
+}
+p{
+    font-family:"OpenSans-Italic", "lucida console", "courier new";
+    font-size: 1em; /* 1em equal to 100%*/
+    font-weight: bold;
+    font-style: italic;
+}
